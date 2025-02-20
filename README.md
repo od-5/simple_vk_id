@@ -1,4 +1,4 @@
-# Бибиотека для работы с VK ID на Python3
+# Билбиотека для работы с VK ID на Python3
 
 Библиотека на основе https://github.com/sshumikhin/unofficial-vk-id-python-sdk
 переработанная для использования синхронном режиме. Импользуется requests вместо aiohttp
